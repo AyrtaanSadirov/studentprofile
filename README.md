@@ -4,7 +4,18 @@ Student Number: S3943294
 
 Email: s3943294@student.rmit.edu.au 
 
-<img src="IMG_2319.PNG" alt="Ayrtaan Sadirov">
+<body>
+  <div class="wrapper">
+     <img src="IMG_2319.PNG" alt="Ayrtaan Sadirov">
+  </div>
+</body>
+ 
+
+section{
+  border: dashed, 3px, black;
+  padding: 30px;
+  margin: 30px,100px;
+}
 
 You can use the [editor on GitHub](https://github.com/AyrtaanSadirov/studentprofile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
