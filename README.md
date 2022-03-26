@@ -6,7 +6,7 @@ Email: s3943294@student.rmit.edu.au
 
 <body>
   <div class="wrapper">
-     <img class="IMG-face" src="IMG_2319.PNG" alt="Ayrtaan Sadirov">
+     <img class="img-face" src="IMG_2319.PNG" alt="Ayrtaan Sadirov">
   </div>
 </body>
  
