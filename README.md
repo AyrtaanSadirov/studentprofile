@@ -62,7 +62,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <body>
   <div class="wrapper">
-     <img class="img-person" src="personality.PNG" alt="16personalities">
+     <img class="img-style" src="learning style.PNG" alt="style">
   </div>
 </body>
 
