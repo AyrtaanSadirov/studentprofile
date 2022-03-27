@@ -50,7 +50,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Ideal Job
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AyrtaanSadirov/studentprofile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<body>
+  <div class="wrapper">
+     <img class="img-job" src="job.PNG" alt="Ideal Job">
+  </div>
+</body>
+<a href="https://www.seek.com.au/job/56396015?type=promoted#sol=78fbdef32240eace6df6b12a04a927c4c72d196d">SOC Analyst / Threat Hunter (Entry Level and above)</a>
 
 ### Personal Profile
 
