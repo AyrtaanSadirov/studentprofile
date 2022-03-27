@@ -60,6 +60,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
   </div>
 </body>
 
+<body>
+  <div class="wrapper">
+     <img class="img-person" src="personality.PNG" alt="16personalities">
+  </div>
+</body>
+
 ### Project Idea 
 # Overview:
 My project idea is essentially an app which utilizes tools from Google Maps and other applications like it to pick and choose places for you to eat at. It differs from other apps such as Uber Eats because it is not a delivery service, but a service to find good food, whether you're in a new part of town or if you just happen to be an indecisive person. I’ve thought of three potential names for this app, “Choosi”, “Yumi”, or “Pick This For Me.”
