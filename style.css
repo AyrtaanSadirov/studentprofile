@@ -1,4 +1,4 @@
-html,body,
+html,body,div
 p {
   margin: 0;
   padding: 0;
@@ -10,5 +10,33 @@ p {
 }
 
 .img-face {
+  width: 300px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.img-person {
+  width: 300px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.img-style{
   width: 300px;
 }
