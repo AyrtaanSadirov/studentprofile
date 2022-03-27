@@ -12,9 +12,6 @@ Email: s3943294@student.rmit.edu.au
  
 My name is Ayrtaan Sadirov, I am an ethnic Uyghur and an Australian Citizen. I can speak English fluently and Uyghur semi-fluently and I enjoy playing basketball and some video games. 
 
-You can use the [editor on GitHub](https://github.com/AyrtaanSadirov/studentprofile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Interest in I.T
 My main interests in I.T would have to do with Cyber-security and Machine-learning. I am very interested in becoming a white-hat hacker, which is a hacker that is hired by companies to test their security by attempting to breach them. I’ve always had a vague interest in I.T, but they have recently become more specific and clear. 
@@ -26,28 +23,6 @@ I chose to come to RMIT embarrassingly enough because my girlfriend wanted to co
 I expect to learn not only to code but also how to interact and work with others in this field. I believe that being able to work with others will truly help someone succeed in any field of work.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### Ideal Job
 
 <body>
@@ -56,6 +31,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   </div>
 </body>
 <a href="https://www.seek.com.au/job/56396015?type=promoted#sol=78fbdef32240eace6df6b12a04a927c4c72d196d">SOC Analyst / Threat Hunter (Entry Level and above)</a>
+
+A SOC Analyst/Threat Hunter would be trained to operate SIEM technology and respond to security breaches . They should be able to perform threat based hunts and expand their knowledge by researching and testing security tools. This position is appealing to me because it has a lot to do with cyber security, the field I want to get into. 
+ 
+I will need to have a qualification in Information Technology, which I will gain from completing this course. I will also need experience and skill with cyber security, like the types of cyber attacks there are and how to defend against them. 
+ 
+I have little experience right now in cyber security, but I hope to gain experience through this course and also internships and other courses that may be available. I have prior experience with programming languages such as python, php, and html. 
+
 
 ### Personal Profile
 
@@ -77,6 +59,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   </div>
 </body>
 
+I think the results from my personality tests shows I am an empathic person and usually understands and tries to work with other people. I am a Tactile learner which means I learn the best from a hands on approach and doing things myself. 
+
+I believe these results mean that I can work really well in teams. As an INFP-T I am able to communicate my thoughts and feelings to others and have the needs of others in my mind, which will cause me to meet deadlines more accurately for the sake of others.
+
+I believe these results mean that I can work well with most people. However, I should take into account my learning style, and should explain to others that I need to actually start working on the project in order to completely understand it. 
+
+
 ### Project Idea 
 # Overview:
 My project idea is essentially an app which utilizes tools from Google Maps and other applications like it to pick and choose places for you to eat at. It differs from other apps such as Uber Eats because it is not a delivery service, but a service to find good food, whether you're in a new part of town or if you just happen to be an indecisive person. I’ve thought of three potential names for this app, “Choosi”, “Yumi”, or “Pick This For Me.”
@@ -95,6 +84,3 @@ I will need experience with coding languages that build apps such as Java and Py
 
 # Outcome:
 If the project is successful, then making the choice of where to eat out will become much easier for my users. With the app’s search features, restaurants will be found that fit the users taste and they’ll be navigated towards it. If the app becomes big enough, then I’ll look to add delivery services as well to make the user experience more easier. It will differ from apps such as Uber Eats for its restaurant suggestion capabilities.
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
