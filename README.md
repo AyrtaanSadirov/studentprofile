@@ -71,6 +71,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   </div>
 </body>
 
+<body>
+  <div class="wrapper">
+     <img class="img-true" src="true neutral.PNG" alt="true">
+  </div>
+</body>
+
 ### Project Idea 
 # Overview:
 My project idea is essentially an app which utilizes tools from Google Maps and other applications like it to pick and choose places for you to eat at. It differs from other apps such as Uber Eats because it is not a delivery service, but a service to find good food, whether you're in a new part of town or if you just happen to be an indecisive person. I’ve thought of three potential names for this app, “Choosi”, “Yumi”, or “Pick This For Me.”
